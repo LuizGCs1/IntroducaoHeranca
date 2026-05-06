@@ -1,4 +1,4 @@
-# IntroducaoHeranca
+# Introduçao a Heranca
 Introdução a Herança em PHP
 
 O sistema utiliza herança para os dois tipos de veículos (Carga e Passageiro).
